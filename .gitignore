@@ -1,0 +1,14 @@
+# Local secrets and editor files
+.env
+.env.*
+!.env.example
+*.local.php
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated packages and dependencies
+*.zip
+node_modules/
+vendor/

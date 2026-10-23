@@ -1,0 +1,11 @@
+.bbaiat-widget { margin: 6px 0; max-width: 440px; }
+.bbaiat-status { margin: 8px 0 !important; font-size: 12px; }
+.bbaiat-status:empty { display: none; }
+.bbaiat-error { color: #b32d2e; }
+.bbaiat-review { margin-top: 10px; padding: 12px; background: #f6f7f7; border: 1px solid #c3c4c7; border-radius: 3px; }
+.bbaiat-review[hidden] { display: none !important; }
+.bbaiat-label { display: block !important; float: none !important; width: auto !important; max-width: none !important; text-align: left !important; font-weight: 600; }
+.bbaiat-suggestion { display: block; width: 100% !important; float: none !important; margin: 7px 0 0; min-height: 90px; box-sizing: border-box; font-weight: 400; }
+.bbaiat-hint { margin: 8px 0 !important; font-size: 12px; font-weight: 400; }
+.bbaiat-dismiss { margin-left: 10px !important; vertical-align: middle; }
+.column-bbaiat_alt { width: 28%; }
